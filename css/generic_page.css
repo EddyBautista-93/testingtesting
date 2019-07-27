@@ -1,0 +1,13 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin 0:
+
+}
+body {
+    grid-template-areas:
+    "header header header"
+    "nav article ad"
+
+"";
+}

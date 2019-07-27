@@ -1,0 +1,36 @@
+.center {
+    text-align: center;
+}
+
+h1, h2 {
+    color:darkcyan;
+}
+
+body {
+    background-color: bisque;
+}
+
+body {
+    background-image: url(.idea/skyline.jpg)no-repeat center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+ol {
+    list-style-type: circle;
+}
+
+body {
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+table {
+    border: 1px solid black;
+    width: 100%;
+}
+
+th {
+    height: 50px;
+    border: 1px solid black;
